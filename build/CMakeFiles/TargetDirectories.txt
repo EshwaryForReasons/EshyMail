@@ -1,0 +1,3 @@
+/home/eshy/EshyMail/build/CMakeFiles/eshymail.dir
+/home/eshy/EshyMail/build/CMakeFiles/edit_cache.dir
+/home/eshy/EshyMail/build/CMakeFiles/rebuild_cache.dir
